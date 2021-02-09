@@ -20,9 +20,9 @@ Saya tidak bertanggung jawab jika sesuatu terjadi pada ponsel anda , resiko tang
 
 # Feature 
 -Fitur:
-EN:
+- EN:
 -Choose your own device,brand
-ID:
+- ID:
 -Pilih & sesuaikan merek,tipe hp mu
 
 <!-- h3h3h3>
