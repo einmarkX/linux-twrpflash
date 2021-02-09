@@ -24,5 +24,14 @@ Saya tidak bertanggung jawab jika sesuatu terjadi pada ponsel anda , resiko tang
 -Choose your own device,brand
 - ID:
 -Pilih & sesuaikan merek,tipe hp mu
+# Next update
+-Update selanjutnya
+- EN:
+- Unlock bootloader
+- Verity disabler
+- ID:
+- Buka bootloader
+- Nonaktifkan verity
+
 
 <!-- h3h3h3>
