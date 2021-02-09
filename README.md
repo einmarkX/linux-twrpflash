@@ -1,12 +1,12 @@
 # Twrp Flasher Script for linux !
-- Flasher twrp untuk linux !
+-Flasher twrp untuk linux !
 -EN 
 This is twrp flasher for linux devices, with many feature
 -ID
 Script untuk memflash twrp, dengan banyak fitur
 # Version Release
-- Rilis Versi:
-- v1.0-alpha
+-Rilis Versi:
+-v1.0-alpha
 EN:
 This version is still alpha, many bugs here,experimental
 ID:
